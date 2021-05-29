@@ -8,8 +8,6 @@ Pronto runner for [ESlint](http://eslint.org), pluggable linting utility for Jav
 
 Uses official eslint executable installed by `npm` in contrast to [pronto-eslint][pronto-eslint].
 
-:exclamation:**Not maintained anymore**:exclamation:: This gem is not maintened anymore and will receive no updates. If you want to step in as a maintainer, please open an issue to discuss it.
-
 [pronto-eslint]: https://github.com/mmozuras/pronto-eslint
 
 ## Prerequisites
